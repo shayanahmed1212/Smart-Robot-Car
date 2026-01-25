@@ -105,9 +105,8 @@ This project was developed to strengthen understanding of:
 ---
 
 ## 📷 Demo & Documentation
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/2270ccef-4b2e-4e84-91cd-51c009b5cf40" />
 
-- Demo videos and images can be added here
-- Wiring diagrams can be included in a `/docs` folder
 
 ---
 
@@ -122,5 +121,4 @@ Full-Stack Developer | Flutter Developer | Embedded Systems Enthusiast
 
 This project is open for learning and educational purposes.
 
-<img width="978" height="537" alt="image" src="https://github.com/user-attachments/assets/ced73e3b-ad42-4f2c-bd33-ff35ba8c858d" />
 
