@@ -106,7 +106,7 @@ This project was developed to strengthen understanding of:
 
 ## 📷 Demo & Documentation
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/2270ccef-4b2e-4e84-91cd-51c009b5cf40" />
-
+<img width="1000" height="800" alt="wmremove-transformed" src="https://github.com/user-attachments/assets/6befe0e5-51a5-48b0-8933-a6a7ae43059b" />
 
 ---
 
