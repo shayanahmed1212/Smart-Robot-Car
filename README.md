@@ -1,16 +1,6 @@
 <div align="center">
 
-<br/>
-
-<h1>
-  <img src="https://img.shields.io/badge/🤖-Smart%20Robot%20Car%20%7C%20Arduino-00cfff?style=for-the-badge&labelColor=0a0f1e&color=00cfff" height="45"/>
-</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/🔵%20Bluetooth%20Control-0a1628?style=flat-square&color=0d2244"/>
-  <img src="https://img.shields.io/badge/📡%20Obstacle%20Avoidance-0a1628?style=flat-square&color=0d2244"/>
-  <img src="https://img.shields.io/badge/🎙️%20Voice%20Navigation-0a1628?style=flat-square&color=0d2244"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1f3c,100:0a1628&height=210&section=header&text=Smart%20Robot%20Car%20%7C%20Arduino&fontSize=38&fontColor=00cfff&fontAlignY=42&desc=Bluetooth%20Control%20%7C%20Obstacle%20Avoidance%20%7C%20Voice%20Navigation&descAlignY=63&descColor=7de8ff" width="100%"/>
 
 <br/>
 
@@ -270,7 +260,7 @@ Feel free to study, fork, and build upon it. 🔧
 
 <div align="center">
 
-![divider](https://img.shields.io/badge/────────────────────────────────────────────────────-0a0f1e?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:0d1f3c,100:0a0f1e&height=100&section=footer" width="100%"/>
 
 <sub>Arduino Uno · L293D Shield · HC-SR04 · HC-05 · Servo Motor · C/C++</sub>
 
